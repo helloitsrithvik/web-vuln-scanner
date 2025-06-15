@@ -7,12 +7,6 @@ A lightweight yet powerful web vulnerability scanner built with Python and Strea
 
 ---
 
-## 📸 Screenshot
-
-![Screenshot](https://raw.githubusercontent.com/helloitsrithvik/web-vuln-scanner/main/screenshot.png)
-
----
-
 ## ✨ Features
 
 - ✅ Detects **XSS** and **SQL Injection** vulnerabilities using custom and default payloads
