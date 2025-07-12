@@ -2,11 +2,6 @@
 
 A lightweight yet powerful web vulnerability scanner built with Python and Streamlit. It detects common web vulnerabilities such as XSS (Cross-Site Scripting) and SQLi (SQL Injection), fetches historical Wayback Machine URLs, discovers subdomains, and scans them for potential weaknesses.
 
-> 🚀 Live Demo (Deploy it on Streamlit Cloud):  
-> [https://helloitsrithvik-web-vuln-scanner.streamlit.app](#)
-
----
-
 ## ✨ Features
 
 - ✅ Detects **XSS** and **SQL Injection** vulnerabilities using custom and default payloads
